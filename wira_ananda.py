@@ -1,0 +1,7 @@
+Nama = input('Halo, siapa namamu?\n')
+Usia = input('Berapa usiamu?\n')
+Tempat_Tinggal = input('Dimanakah tempat tinggalmu?\n')
+Tempat_Kuliah = input('Dimanakah tempat kuliahmu?\n')
+Program_Studi = input('Program Studi Apa?\n')
+print("\n")
+print("Halo",Nama,"Senang berteman denganmu.\nUsiamu sekarang sudah",Usia,"tahun ya? Makin keren aja kamu.\nApalagi sekarang kamu kuliah di",Tempat_Kuliah,"di program studi"+Program_Studi+".\nRumah kamu di",Tempat_Tinggal,"kan? kapan-kapan kita\npergi sama-sama ya ke kampus? Aku juga mahasiswa",Tempat_Kuliah+".")
